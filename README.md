@@ -3,7 +3,7 @@ FolderImageConverter
 
 This application is a command line utility that uses "http://imageresizing.net" to apply a filter 
 to a set of images in specified folder.
-
+<code>
 > fic.exe
 
 Convert Images in folder and sub folders
@@ -32,3 +32,4 @@ Command line options:
                                settings="width=320&height=240&quality=85&crop="
   -v, --verbose              Verbose output.
   -h, -?, --help
+</code>
